@@ -1,5 +1,5 @@
 # Hi, I'm Carolina 👋🏾 👩🏾‍💻 | Hola, soy Carolina
-
+https://user-images.githubusercontent.com/93554406/193895001-cee32608-c673-4135-a3cc-139ef117e7e9.png
 #
 Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con éstas carreras. 
 Entre las cosas que más me motivaron a inclinarme al mundo tech, además de ser fascinante la cantidad de aristas en las que uno se puede desempeñar, es la posibilidad de trabajar remoto, por objetivos o proyectos, entre otras ventajas.
