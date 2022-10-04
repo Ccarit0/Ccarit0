@@ -76,5 +76,7 @@ Here are some ideas to get you started:
 **<h3 align="center">deploy y video de nuestro proyecto estrella</h3>**
 - [**TuSpacio** -video-](https://www.youtube.com/watch?v=yTaSsAUFFrU)
 
+- [**TuSpacio** -deploy-](https://tuspacio.vercel.app/)
+
 
 
