@@ -56,7 +56,11 @@ Here are some ideas to get you started:
 
 ## Mis proyectos
 - [Proyecto Individual - Soy Henry - Junio 2022] 
-
+-- Este proyecto pedía que se realizara una SPA con peticiones a la API rest de Pokemon (en mi caso), con los siguientes requisitos:
+- ⚡ Poder buscar un pokemon por su nombre
+- ⚡ Poder filtrarlos por sus atributos
+- ⚡ poder crea un pokemos que no existiera en la bd externa
+- ⚡⚡ Como agregados, el estilo está hecho con CSS flex-box, tiene una landing page, y animaciones.
 <img src="https://user-images.githubusercontent.com/93554406/193912337-216492e7-a6e2-49ad-94c9-465192ac5600.png" alt="api1" width='500x' height='250px'>
 <img src="https://user-images.githubusercontent.com/93554406/193913567-66f1fba1-cd68-44a2-9cea-03e5a2cabaf8.png" alt="api1" width='500x' height='250px'>
 
