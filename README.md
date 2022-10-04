@@ -64,5 +64,15 @@ El mundo del desarrollo web me es sorprendente, y es por ello, que estoy en cons
 
 - [**TuSpacio** -deploy-](https://tuspacio.vercel.app/)
 
+**Agradezco a mis compañeros y colaboradores de este proyecto final**:
+- [@dmaceda](https://github.com/dmaceda)
+- [@thegera4](https://github.com/thegera4)
+- [@ENDERSON-MARIN](https://github.com/ENDERSON-MARIN)
+- [@mocho66](https://(https://github.com/mocho66))
+- [@edinsondevs](https://github.com/edinsondevs)
+- [@SantiagoMPereyra](https://github.com/SantiagoMPereyra)
+
+<h1 align="center"> 👋🏾 Bye </h1>
+
 
 
