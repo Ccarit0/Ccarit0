@@ -1,4 +1,5 @@
-# Hi, I'm Carolina 👋🏾  | Hola, soy Carolina 👩🏾‍💻
+<h2 align="center">Hi, I'm Carolina 👋🏾  | Hola, soy Carolina 👩🏾‍💻</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <img src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'>
 
@@ -25,7 +26,13 @@ El mundo del desarrollo web me es sorprendente, y es por ello, que estoy en cons
 ✈Proyecto Final Grupal, 
 
 ## Tech | Tecnolgías 🔭 : 
-React | Redux | MUI | Sequelize | Express | Node js | JavaScrip
+<p align="left">  
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+  ******
 
 ## You can find me | Puedes encontrarme 📫: 
 - [LinkedIn](https://www.linkedin.com/in/carolina-castillo-andrada-088244238/) 
@@ -49,8 +56,9 @@ Here are some ideas to get you started:
 
 ## Mis proyectos
 - [Proyecto Individual - Soy Henry - Junio 2022] 
+
 <img src="https://user-images.githubusercontent.com/93554406/193912337-216492e7-a6e2-49ad-94c9-465192ac5600.png" alt="api1" width='500x' height='250px'>
-other images of the project...
+<img src="https://user-images.githubusercontent.com/93554406/193913567-66f1fba1-cd68-44a2-9cea-03e5a2cabaf8.png" alt="api1" width='500x' height='250px'>
 
 
 
