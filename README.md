@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Carolina 👋🏾  | Hola, soy Carolina 👩🏾‍💻</h3>
 <h3 align="center">Full Stack Developer</h3>
 
-<img src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'>
+<p align="center"><img  src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'></p>
 
 ## Let me tell you about my story | Dejame contarte un poco de mi historia
 Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con esas carreras. 
@@ -26,7 +26,7 @@ El mundo del desarrollo web me es sorprendente, y es por ello, que estoy en cons
 ✈Proyecto Final Grupal, 
 
 ## Tech | Tecnolgías 🔭 : 
-<p align="left">  
+<p align="center">  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 - :dizzy: Como agregados, planteamos un plan de descuentos, un chatbot para mejorar la UX, entre otros
 
 **<h3 align="center">deploy y video de nuestro proyecto estrella</h3>**
+- [**TuSpacio** -video-](https://www.youtube.com/watch?v=yTaSsAUFFrU)
 
 
 
