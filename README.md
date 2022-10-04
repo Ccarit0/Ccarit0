@@ -1,7 +1,18 @@
-# Hi, I'm Carolina 👋🏾 👩🏾‍💻 | Hola, soy Carolina
+# Hi, I'm Carolina 👋🏾  | Hola, soy Carolina 👩🏾‍💻
 
-https://user-images.githubusercontent.com/93554406/193895001-cee32608-c673-4135-a3cc-139ef117e7e9.png
+<img src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'>
 
+### 
+```js
+const caroLina = {
+pronuins "she" | "her",
+code: [JavaScrip, Node Js, HTML, CSS, CSS flexBox],
+tools:[Sequelize, Express, React, Redux, Material UI],
+}
+```
+<!--
+
+### You can find me | Puedes encontrarme � 
 #
 Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con éstas carreras. 
 Entre las cosas que más me motivaron a inclinarme al mundo tech, además de ser fascinante la cantidad de aristas en las que uno se puede desempeñar, es la posibilidad de trabajar remoto, por objetivos o proyectos, entre otras ventajas.
