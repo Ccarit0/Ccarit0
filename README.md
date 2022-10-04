@@ -73,5 +73,7 @@ Here are some ideas to get you started:
 - ⚡ una viewport para el administrador de la página, como dashboard.
 - :dizzy: Como agregados, planteamos un plan de descuentos, un chatbot para mejorar la UX, entre otros
 
-<h3 align="center">**deploy y video de nuestro proyecto estrella**</h3>
+**<h3 align="center">deploy y video de nuestro proyecto estrella</h3>**
+
+
 
