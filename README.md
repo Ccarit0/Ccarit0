@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## Mis proyectos
 - [Proyecto Individual - Soy Henry - Junio 2022] 
-
+<img src="https://user-images.githubusercontent.com/93554406/193912337-216492e7-a6e2-49ad-94c9-465192ac5600.png" alt="api1" width='500x' height='250px'>
 
 - [e-mail](carolinacastilloandrad@gmail.com)
 
