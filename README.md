@@ -1,7 +1,8 @@
 <h2 align="center">Hi, I'm Carolina 👋🏾  | Hola, soy Carolina 👩🏾‍💻</h3>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center"><img  src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'></p>
+<img src="https://user-images.githubusercontent.com/93554406/193947238-69954ab3-80ab-4566-8a11-a4eee074cd27.png">
+
 
 ## Let me tell you about my story | Dejame contarte un poco de mi historia
 Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con esas carreras. 
