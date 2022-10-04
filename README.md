@@ -60,10 +60,18 @@ Here are some ideas to get you started:
 - ⚡ Poder buscar un pokemon por su nombre
 - ⚡ Poder filtrarlos por sus atributos
 - ⚡ poder crea un pokemos que no existiera en la bd externa
-- ⚡⚡ Como agregados, el estilo está hecho con CSS flex-box, tiene una landing page, y animaciones.
+- :dizzy: Como agregados, el estilo está hecho con CSS flex-box, tiene una landing page, y animaciones.
 <img src="https://user-images.githubusercontent.com/93554406/193912337-216492e7-a6e2-49ad-94c9-465192ac5600.png" alt="api1" width='500x' height='250px'>
 <img src="https://user-images.githubusercontent.com/93554406/193913567-66f1fba1-cd68-44a2-9cea-03e5a2cabaf8.png" alt="api1" width='500x' height='250px'>
 
 
+- [Proyecto Integrador Grupal - Soy Henry - Septiembre 2022] 
+-- En esta instacia el desafío era trabajar en un grupo humano numeroso, por lo que fue requisito **el manEJO DE git flow**. El mismo requería hacer un **e-commerce** con las siguiente particularidades (teniendo como base las del proyecto individual):
+- ⚡ Integración de pasarela de pago y de autenticación ( usamos Stripe y Auth0, respectivamente)
+- ⚡ accesibilidades limitadas para guest, respecto del user logueado.
+- ⚡ Acceso al detail del de producto, sus reviews, historial de compras 
+- ⚡ una viewport para el administrador de la página, como dashboard.
+- :dizzy: Como agregados, planteamos un plan de descuentos, un chatbot para mejorar la UX, entre otros
 
+<h3 align="center">**deploy y video de nuestro proyecto estrella**</h3>
 
