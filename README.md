@@ -1,4 +1,4 @@
-### Hola soy Caro 👋
+# Hi, I'm Carolina 👋🏾 👩🏾‍💻 | Hola, soy Carolina
 
 #
 Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con éstas carreras. 
@@ -10,6 +10,8 @@ El mundo del desarrollo web me es sorprendente, y es por ello que estoy en const
 
 en ellas usamos las siguientes tecnologías:
 React | Redux | MUI | Sequelize | Express | Node js | JavaScrip
+
+<img src=https://c.tenor.com/aPHeOWnsF50AAAAd/haptic-technology.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 Mis aspiraciones son poder ofrecer soluciones originales, rápidas y en lo posible, sin tanto impacto ambiental. Y para ello, adopto una actitud positiva, autodidacta y sociable. 
 Por último, y no menos importante, de mis habilidades blandas, resaltan las sigiuente: trabajo de equipo, liderazgo, comunicación, rápida curva de aprendizaje, originalidad y resolución de problemas, orientación a resultados.
