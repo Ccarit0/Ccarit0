@@ -2,7 +2,16 @@
 
 <img src="https://1.bp.blogspot.com/-EfardbC1fSQ/XpzA2hy_w7I/AAAAAAABAT0/5Uiuw0YyouY6B6SrBv5VKFnLg4cwjnFPQCNcBGAsYHQ/s1600/pixton-avatar-cuerpo-entero.png" alt='img' width='250x' height='500x'>
 
-### 
+## Let me tell you about my story | Dejame contarte un poco de mi historia
+Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con esas carreras. 
+Entre las cosas que más me motivaron a inclinarme al mundo tech, además de ser fascinante la cantidad de aristas en las que uno se puede desempeñar, es la posibilidad de trabajar remoto, por objetivos o proyectos, entre otras ventajas.
+
+Mis aspiraciones son poder ofrecer soluciones originales, rápidas y en lo posible, sin tanto impacto ambiental. Y para ello, adopto una actitud positiva, autodidacta y sociable. 
+Por último, y no menos importante, de mis habilidades blandas, resaltan las sigiuente: trabajo de equipo, liderazgo, comunicación, rápida curva de aprendizaje, originalidad y resolución de problemas, orientación a resultados.
+
+🌱🌱🌱Encontrarme con Henry y la carrera de  fullstack developer, y luego de recibirme de ello, en tiempos  inimaginables para mí, me cambiaron los paradigmas e intereses, que se veían tan lejanos cuando frecuentaba la universidad tradicional. 🌱🌱🌱
+
+## Me in code 💬 :
 ```js
 const caroLina = {
 pronuins "she" | "her",
@@ -11,7 +20,14 @@ tools:[Sequelize, Express, React, Redux, Material UI],
 }
 ```
 
-You can find me | Puedes encontrarme: 
+El mundo del desarrollo web me es sorprendente, y es por ello, que estoy en constante formación acerca todas las tecnologías que aprendí en el bootcamp, y que conocí en las dos instancias evaluativas durante del mismo:
+✈Proyecto Individual integrador, con una SPA 
+✈Proyecto Final Grupal, 
+
+## Tech | Tecnolgías 🔭 : 
+React | Redux | MUI | Sequelize | Express | Node js | JavaScrip
+
+## You can find me | Puedes encontrarme 📫: 
 - [LinkedIn](https://www.linkedin.com/in/carolina-castillo-andrada-088244238/) 
 - [e-mail](carolinacastilloandrad@gmail.com)
 - [Portfolio](https://www.porfolio.com/CarolinaCASTILLO/)
@@ -31,19 +47,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-Luego de estudiar dos ingenierías (Civil e Industrial), me di cuenta que mis búsquedas laborales no se relacionaban con éstas carreras. 
-Entre las cosas que más me motivaron a inclinarme al mundo tech, además de ser fascinante la cantidad de aristas en las que uno se puede desempeñar, es la posibilidad de trabajar remoto, por objetivos o proyectos, entre otras ventajas.
-Encontrarme con Henry y a la carrera de  fullstack developer, y luego recibirme de ello, en tiempos  inimaginables para mí, me cambiaron los paradigmas y los intereses, que se veían tan lejanos cuando frecuentaba la universidad tradicional. 
-El mundo del desarrollo web me es sorprendente, y es por ello que estoy en constante formación acerca de tecnologías que más me impactaron, y que conocí en las dos instancias evaluativas durante el bootcamp de  henry 
- -- > Proyecto Individual integrador, con una SPA 
- --> Proyecto Final Grupal, 
+## Mis proyectos
+- [Proyecto Individual - Soy Henry - Junio 2022] 
 
-en ellas usamos las siguientes tecnologías:
-React | Redux | MUI | Sequelize | Express | Node js | JavaScrip
 
-<img src=https://c.tenor.com/aPHeOWnsF50AAAAd/haptic-technology.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+- [e-mail](carolinacastilloandrad@gmail.com)
 
-Mis aspiraciones son poder ofrecer soluciones originales, rápidas y en lo posible, sin tanto impacto ambiental. Y para ello, adopto una actitud positiva, autodidacta y sociable. 
-Por último, y no menos importante, de mis habilidades blandas, resaltan las sigiuente: trabajo de equipo, liderazgo, comunicación, rápida curva de aprendizaje, originalidad y resolución de problemas, orientación a resultados.
+
 
