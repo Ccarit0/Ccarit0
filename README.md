@@ -42,7 +42,7 @@ El mundo del desarrollo web me es sorprendente, y es por ello, que estoy en cons
 - [LinkedIn](https://www.linkedin.com/in/carolina-castillo-andrada-088244238/) 
 - [e-mail](carolinacastilloandrad@gmail.com)
 - [Portfolio](https://www.porfolio.com/CarolinaCASTILLO/)
-- [CV](https://drive.google.com/file/d/1JFFnhc1hzuVR2i8dnbVk4vO7z5Gj03JX/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1yZ5RF67Ow1KqrEgU0Y496YgMTqNxXJEs/view?usp=sharing)
 
 ## Mis proyectos
 - [Proyecto Individual - Soy Henry - Junio 2022] 
